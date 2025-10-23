@@ -1,5 +1,10 @@
 # 🏨 Sistema de Reserva de Hotel
 
+- Rafael de Almeida Sigoli : RM554019 
+- Giovanna Franco Gaudino Rodrigues : rm553701
+- Rafael Jorge Del Padre : rm552765 
+
+
 ## 📋 Descrição
 Sistema completo de gerenciamento de reservas de hotel desenvolvido com Java Spring Boot, seguindo arquitetura MVC e boas práticas REST. O sistema permite o cadastro de quartos, gestão de reservas, check-in, check-out e validações de negócio.
 
